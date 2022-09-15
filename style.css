@@ -1,0 +1,45 @@
+
+
+.clearflix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    color: #e53170;
+}
+
+body{
+    font-family: 'Fredoka One', cursive;
+}
+
+body{
+    padding: 0 40px;
+}
+.col{
+    float: left;
+    background-color: black;
+    margin: 10px 10px;
+    width: 400px;
+    height: 100px;
+}
+
+img{
+    height: 100px;
+    float: left;
+}
+
+.interno{
+    color: white;
+    float: left;
+    padding-left: 10px;
+}
+
+small{
+    color: lightgray;
+}
